@@ -16,7 +16,7 @@ Cura is a cutting-edge AI-powered health assistant designed to help you monitor 
 
 ## 🔗 Live Preview
 
-Check out the live demo of Cura here: [Live Preview](APP_URL) <!-- Replace with your actual live preview link -->
+Check out the live demo of Cura here: [Live Preview](https://cura-med.vercel.app) <!-- Replace with your actual live preview link -->
 
 
 ## 💻 Tech Stack
